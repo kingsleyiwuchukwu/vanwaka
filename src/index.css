@@ -117,14 +117,14 @@ body {
 .hero-container {
   font-weight: 300;
   font-size: 1.5rem;
-  line-height: 42px;
+  line-height: 40px;
 }
 
 .hero-info .link-button {
   background-color: #ffcc8d;
   color: #ffffff;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
-  
+
 }
 
 /* About pages */
